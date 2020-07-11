@@ -1,0 +1,22 @@
+h1  {
+  color: blue;
+  text-align: center;
+}
+h2  {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p { 
+  font-family: sans-serif;
+  background-color: seagreen;
+
+}
+ul  {
+  line-height: 40px;
+
+}
+h3  {
+  font-size: 12pt;
+  color: red;
+}
