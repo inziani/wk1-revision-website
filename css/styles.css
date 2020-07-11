@@ -21,9 +21,11 @@ h3  {
   color: red;
 }
 
-.author {
+.line1 {
   color: red;
-  font-size:  12px;
-  font-style: oblique;
+
+}
+#line2  {
+  color: red;
 }
 
